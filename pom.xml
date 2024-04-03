@@ -15,8 +15,7 @@
 	<description>api rest boilerplate</description>
 	<properties>
 		<java.version>17</java.version>
-		<org.mapstruct.version>1.5.5.Final</org.mapstruct.version>`
-
+		<org.mapstruct.version>1.5.5.Final</org.mapstruct.version>
 	</properties>
 	<dependencies>
 		<dependency>
