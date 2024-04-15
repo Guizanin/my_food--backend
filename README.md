@@ -1,5 +1,26 @@
-# boilerplate_springboot
-Template for fast project's starter. To change the names and be happy
+# My food
+api rest 
+- Pedido_response
+  - id
+  - data
+  - observacoes
+  - lista produtos
+    - id_produto
+    - nome_produto
+    - quantidade
+    - valor_unitario
+  - cliente
+  - valor_total
+  - retirada
+  - status
+
+- Produtos_response
+  - id
+  - nome
+  - quantidade_estoque
+
+- Cliente
+
 
 <br />
 
